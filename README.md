@@ -8,7 +8,7 @@ git clone https://github.com/jacegem/config-karabinar.git ~/.config/karabinar
 
 ## 수정 내역
 
-```
+```json
 "manipulators": [
     {
         "description": "Change caps_lock to control+option.",
