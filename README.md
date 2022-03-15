@@ -1,5 +1,6 @@
 # config-karabinar
 
+## clone
 
 ```
 git clone https://github.com/jacegem/config-karabinar.git ~/.config/karabinar
