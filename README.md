@@ -10,7 +10,7 @@ git clone https://github.com/jacegem/config-karabinar.git ~/.config/karabinar
 ```
 "manipulators": [
     {
-        "description": "Change caps_lock to command+control+option+shift.",
+        "description": "Change caps_lock to control+option.",
         "from": {
             "key_code": "caps_lock",
             "modifiers": {
